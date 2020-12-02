@@ -1,6 +1,4 @@
-package cn.chuchin.a并发编程线程基础;
-
-import com.sun.org.apache.bcel.internal.generic.NEW;
+package cn.chuchin.a;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

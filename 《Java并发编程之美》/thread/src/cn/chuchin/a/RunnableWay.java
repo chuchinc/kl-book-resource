@@ -1,4 +1,4 @@
-package cn.chuchin.a并发编程线程基础;
+package cn.chuchin.a;
 
 /**
  * @ClassName RunnableWay
